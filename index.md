@@ -8,3 +8,7 @@ I added headings to this document
 ``` javascript
 console.log('hello);
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
